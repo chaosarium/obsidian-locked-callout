@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+    "id": "obsidian-locked-callout",
+    "name": "Locked Callout",
+    "version": "0.1.0",
+    "minAppVersion": "0.12.0",
+    "description": "Prevent callouts from blowing up in live preview mode when you click on it",
+    "author": "chaosarium",
+    "authorUrl": "https://github.com/chaosarium/obsidian-locked-callout",
+    "isDesktopOnly": false
 }
