@@ -18,7 +18,7 @@ export default class RemoveCalloutListenersPlugin extends Plugin {
     removeCalloutListeners() {
         
         // find all callouts
-        const callouts = document.querySelectorAll('div.cm-embed-block.cm-callout');
+        const callouts = document.querySelectorAll('div.cm-embed-block.callout');
         console.log(callouts);
 
         // for some reason sometimes two listeners get added... but whatever
